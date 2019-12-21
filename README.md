@@ -8,3 +8,4 @@ Dmitry Blagushin (Dzmitry Blahushyn)
 | № | Task                 | Stage      |
 |---|----------------------|------------|
 | 1 | Compare the Triplets | done       |
+| 2 | Sock Merchant        | done       |
