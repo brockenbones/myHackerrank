@@ -10,3 +10,4 @@ Dmitry Blagushin (Dzmitry Blahushyn)
 | 1 | Compare the Triplets | done       | easy   |
 | 2 | Sock Merchant        | done       | easy   |
 | 3 | Counting Valleys     | done       | easy   |
+| 4 | Java Loops I         | done       | easy   |
